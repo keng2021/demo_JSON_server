@@ -34,7 +34,7 @@
             "account_id": 3627,
             "sales": 999999999999.0000,
             "units": 73608,
-            "account_name": "Askul JP",
+            "account_name": "Test account JP",
             "clicks": 6289,
             "total_revenue": 1237409.4682
         },
@@ -46,7 +46,7 @@
             "account_id": 7025,
             "sales": 3143.0000,
             "units": 3,
-            "account_name": "アスクル",
+            "account_name": "テスト",
             "clicks": 0,
             "total_revenue": 0.0000
         }
