@@ -1,0 +1,272 @@
+{
+    "ts": 1708510495813,
+    "columns": [
+        {
+            "column": "row_num",
+            "type": "Integer"
+        },
+        {
+            "column": "date",
+            "type": "Date"
+        },
+        {
+            "column": "date_previous",
+            "type": "Date"
+        },
+        {
+            "column": "impressions",
+            "type": "Integer"
+        },
+        {
+            "column": "clicks",
+            "type": "Integer"
+        },
+        {
+            "column": "total_revenue",
+            "type": "Numeric"
+        },
+        {
+            "column": "cpc",
+            "type": "Numeric"
+        },
+        {
+            "column": "cpm",
+            "type": "Numeric"
+        },
+        {
+            "column": "roas",
+            "type": "Numeric"
+        },
+        {
+            "column": "units",
+            "type": "Integer"
+        },
+        {
+            "column": "sales",
+            "type": "Numeric"
+        },
+        {
+            "column": "impressions_previous",
+            "type": "Integer"
+        },
+        {
+            "column": "clicks_previous",
+            "type": "Integer"
+        },
+        {
+            "column": "total_revenue_previous",
+            "type": "Numeric"
+        },
+        {
+            "column": "cpc_previous",
+            "type": "Numeric"
+        },
+        {
+            "column": "cpm_previous",
+            "type": "Numeric"
+        },
+        {
+            "column": "roas_previous",
+            "type": "Numeric"
+        },
+        {
+            "column": "units_previous",
+            "type": "Integer"
+        },
+        {
+            "column": "sales_previous",
+            "type": "Numeric"
+        }
+    ],
+    "values": [
+        {
+            "row_num": 1,
+            "date": null,
+            "date_previous": null,
+            "impressions": 86184699,
+            "clicks": 56455,
+            "total_revenue": 60943.13461281,
+            "cpc": 0.842621730839411411629895051,
+            "cpm": 5.395640807151497745823040000,
+            "roas": 7.720821926693220521004507785,
+            "units": 40893,
+            "sales": 470531.0900,
+            "impressions_previous": 83886099,
+            "clicks_previous": 54183,
+            "total_revenue_previous": 61491.24190928,
+            "cpc_previous": 0.839170598355213839500240269,
+            "cpm_previous": 5.435422071800370501542540000,
+            "roas_previous": 6.996003929058344218257503849,
+            "units_previous": 34247,
+            "sales_previous": 430192.9700
+        },
+        {
+            "row_num": 2,
+            "date": "2022-03-01",
+            "date_previous": "2022-02-21",
+            "impressions": 9824845,
+            "clicks": 6693,
+            "total_revenue": 6948.89422934,
+            "cpc": 0.781793339294298921417565485,
+            "cpm": 5.445170805803363999628290000,
+            "roas": 8.157133801327655020139262116,
+            "units": 4825,
+            "sales": 56683.0600,
+            "impressions_previous": 11455632,
+            "clicks_previous": 6584,
+            "total_revenue_previous": 7257.83463125,
+            "cpc_previous": 0.824070004030274361400189215,
+            "cpm_previous": 5.296441805878902431076060000,
+            "roas_previous": 6.529198088361308170168154518,
+            "units_previous": 3416,
+            "sales_previous": 47387.8400
+        },
+        {
+            "row_num": 3,
+            "date": "2022-03-02",
+            "date_previous": "2022-02-22",
+            "impressions": 9951918,
+            "clicks": 6738,
+            "total_revenue": 6939.34439825,
+            "cpc": 0.756924451326811372668908591,
+            "cpm": 5.386839974929735501933800000,
+            "roas": 8.701026571793553941585421153,
+            "units": 5093,
+            "sales": 60379.4200,
+            "impressions_previous": 10650972,
+            "clicks_previous": 6210,
+            "total_revenue_previous": 8860.38570836,
+            "cpc_previous": 0.841576207623203285420944559,
+            "cpm_previous": 5.895702220429247194758460000,
+            "roas_previous": 4.811152855318562726850233574,
+            "units_previous": 3115,
+            "sales_previous": 42628.6700
+        },
+        {
+            "row_num": 4,
+            "date": "2022-03-03",
+            "date_previous": "2022-02-23",
+            "impressions": 9979421,
+            "clicks": 6835,
+            "total_revenue": 7276.92091424,
+            "cpc": 0.821544775371179039301310044,
+            "cpm": 5.479784728574867597496390000,
+            "roas": 9.365281113147512287618713160,
+            "units": 5559,
+            "sales": 68150.4100,
+            "impressions_previous": 10160185,
+            "clicks_previous": 6281,
+            "total_revenue_previous": 8139.27090270,
+            "cpc_previous": 0.844087895318189410389176549,
+            "cpm_previous": 5.785310175150130022067190000,
+            "roas_previous": 7.058927106227769960720317235,
+            "units_previous": 4248,
+            "sales_previous": 57454.5200
+        },
+        {
+            "row_num": 5,
+            "date": "2022-03-04",
+            "date_previous": "2022-02-24",
+            "impressions": 10637483,
+            "clicks": 6715,
+            "total_revenue": 7532.69931884,
+            "cpc": 0.877362802540341171046565237,
+            "cpm": 5.442449633260516640404910000,
+            "roas": 7.798085057382295549606971812,
+            "units": 5124,
+            "sales": 58740.6300,
+            "impressions_previous": 10400205,
+            "clicks_previous": 6746,
+            "total_revenue_previous": 7283.13370531,
+            "cpc_previous": 0.852828160235075781008351376,
+            "cpm_previous": 4.356369044491076662381100000,
+            "roas_previous": 7.924281268916162621325374884,
+            "units_previous": 4690,
+            "sales_previous": 57713.6000
+        },
+        {
+            "row_num": 6,
+            "date": "2022-03-05",
+            "date_previous": "2022-02-25",
+            "impressions": 11906314,
+            "clicks": 7142,
+            "total_revenue": 7839.89741954,
+            "cpc": 0.890047907005868040646915701,
+            "cpm": 5.328939569610766140828960000,
+            "roas": 6.995688472058862308066663028,
+            "units": 4978,
+            "sales": 54845.4800,
+            "impressions_previous": 9527197,
+            "clicks_previous": 6768,
+            "total_revenue_previous": 7350.37867314,
+            "cpc_previous": 0.853345225779606767261088249,
+            "cpm_previous": 5.579828318037163163041990000,
+            "roas_previous": 7.139906980816906958105726021,
+            "units_previous": 4310,
+            "sales_previous": 52481.0200
+        },
+        {
+            "row_num": 7,
+            "date": "2022-03-06",
+            "date_previous": "2022-02-26",
+            "impressions": 11556466,
+            "clicks": 7439,
+            "total_revenue": 8027.90073323,
+            "cpc": 0.884332975185848017621145374,
+            "cpm": 5.181789994637654005930880000,
+            "roas": 7.367801616575545370310151861,
+            "units": 5257,
+            "sales": 59147.9800,
+            "impressions_previous": 10669243,
+            "clicks_previous": 7621,
+            "total_revenue_previous": 7773.65924921,
+            "cpc_previous": 0.824884597216607484293908768,
+            "cpm_previous": 5.318767035565726345755060000,
+            "roas_previous": 8.184931698217425216006447147,
+            "units_previous": 5168,
+            "sales_previous": 63626.8700
+        },
+        {
+            "row_num": 8,
+            "date": "2022-03-07",
+            "date_previous": "2022-02-27",
+            "impressions": 11146296,
+            "clicks": 7471,
+            "total_revenue": 8188.00908411,
+            "cpc": 0.860818714232876712328767123,
+            "cpm": 5.339646395267314293406320000,
+            "roas": 7.084493849985170055107089729,
+            "units": 5312,
+            "sales": 58007.9000,
+            "impressions_previous": 11181144,
+            "clicks_previous": 7375,
+            "total_revenue_previous": 7700.55173768,
+            "cpc_previous": 0.843422314415438596491228070,
+            "cpm_previous": 5.340760224820229083570980000,
+            "roas_previous": 7.071581602853572842641570121,
+            "units_previous": 4594,
+            "sales_previous": 54455.0800
+        },
+        {
+            "row_num": 9,
+            "date": "2022-03-08",
+            "date_previous": "2022-02-28",
+            "impressions": 11181956,
+            "clicks": 7422,
+            "total_revenue": 8189.46851526,
+            "cpc": 0.856711772344094922737306843,
+            "cpm": 5.532563782527907009234810000,
+            "roas": 6.664194373335020931200551121,
+            "units": 4745,
+            "sales": 54576.2100,
+            "impressions_previous": 9841521,
+            "clicks_previous": 6598,
+            "total_revenue_previous": 7126.02730163,
+            "cpc_previous": 0.830589354938852304797742239,
+            "cpm_previous": 5.494623843712907733221150000,
+            "roas_previous": 7.640353831867332763944960974,
+            "units_previous": 4706,
+            "sales_previous": 54445.3700
+        }
+    ]
+}
