@@ -10,5 +10,46 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "advertiser-rollup-metrics":{
+    "ts": 1708501736819,
+    "columns": [
+        "account_id",
+        "account_name",
+        "impressions",
+        "clicks",
+        "total_revenue",
+        "cpc",
+        "cpm",
+        "roas",
+        "units",
+        "sales"
+    ],
+    "values": [
+        {
+            "impressions": 8455681,
+            "roas": 104.1417,
+            "cpc": 42.5000,
+            "cpm": 146.4256,
+            "account_id": 3627,
+            "sales": 999999999999.0000,
+            "units": 73608,
+            "account_name": "Askul JP",
+            "clicks": 6289,
+            "total_revenue": 1237409.4682
+        },
+        {
+            "impressions": 0,
+            "roas": null,
+            "cpc": null,
+            "cpm": null,
+            "account_id": 7025,
+            "sales": 3143.0000,
+            "units": 3,
+            "account_name": "アスクル",
+            "clicks": 0,
+            "total_revenue": 0.0000
+        }
+    ]
+}
 }
